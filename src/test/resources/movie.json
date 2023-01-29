@@ -1,0 +1,6 @@
+{
+  "title": "Avatar",
+  "year": 1990,
+  "isActive": true,
+  "actors": ["Actor 1", "Actor 2"]
+}
